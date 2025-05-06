@@ -1,0 +1,40 @@
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\bin\Debug\DbProject.exe.config
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\bin\Debug\DbProject.exe
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\bin\Debug\DbProject.pdb
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.csproj.AssemblyReference.cache
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.AdminDashboard.resources
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.ManageRooms.resources
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.Properties.Resources.resources
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.csproj.GenerateResource.cache
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.csproj.CoreCompileInputs.cache
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.exe
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.pdb
+D:\Semester 2\Data Base\DB Final Project\DB_Final\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.PapaForm.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.csproj.AssemblyReference.cache
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.AdminDashboard.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.ManageBuilding.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.ManageEmployees.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.ManagePayment.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.ManageRooms.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.ManageStudents.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.PapaForm.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.Properties.Resources.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentFees.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentHeader.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentProfileForm.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.ViewComplaints.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.csproj.GenerateResource.cache
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.csproj.CoreCompileInputs.cache
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.exe
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.pdb
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\bin\Debug\DbProject.exe.config
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\bin\Debug\DbProject.exe
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\bin\Debug\DbProject.pdb
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.DamageReportsForm.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentComplaints.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentDashBoard.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentFee.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentFineForm.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentRoom.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentVisitorForm.resources
+C:\DataBaseFinal\DBS25F012\DbProject\DbProject\obj\Debug\DbProject.StudentOtherRequests.resources
